@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main
+public class L2_t1
 {
 	public static void main(String[] args) {
 		String password = "555ugotit";
