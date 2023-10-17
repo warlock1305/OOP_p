@@ -1,4 +1,4 @@
-package org.example;
+package labs;
 import java.util.Scanner;
 
 public class L2t3{

@@ -1,4 +1,4 @@
-package org.example;
+package labs;
 
 public class L2t9 {
     public static void printNumbers(int n){

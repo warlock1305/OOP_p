@@ -1,4 +1,4 @@
-package org.example;
+package labs;
 import java.util.Random;
 import java.util.Scanner;
 
