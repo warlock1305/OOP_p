@@ -1,4 +1,4 @@
-package org.example;
+package labs;
 
 public class L2t6 {
     public static void main(String[] args){

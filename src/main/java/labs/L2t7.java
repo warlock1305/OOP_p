@@ -1,4 +1,4 @@
-package org.example;
+package labs;
 
 public class L2t7 {
     public static void printStars(int n){
