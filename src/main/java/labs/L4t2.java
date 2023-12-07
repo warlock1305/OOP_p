@@ -1,4 +1,4 @@
 package labs;
 
-public class L4t2{
+public class L4t2   {
 }
