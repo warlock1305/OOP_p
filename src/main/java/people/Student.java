@@ -14,6 +14,7 @@ public class Student extends Person{
 
     public Student(String FIO, String INFO){
         super(FIO, INFO);
+        this.credits = 0;
     }
     public void study(){
         this.setCredits(this.getCredits() + 1);
